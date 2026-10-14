@@ -1,2 +1,2 @@
-# DAA-lab-
-implimentation of DAA algorithms using python/java/c/c++.
+# DAA-Lab
+Implementation of DAA algorithms using Python/C++/Java.
